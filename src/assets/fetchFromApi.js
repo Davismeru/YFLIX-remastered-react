@@ -1,7 +1,7 @@
 const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": `${import.meta.env.VITE_API_KEY}`,
+    "X-RapidAPI-Key": "37660475bfmsh04f6579feda28b8p1b5fb5jsn95c614e25226",
     "X-RapidAPI-Host": "youtube-search-and-download.p.rapidapi.com",
   },
 };
